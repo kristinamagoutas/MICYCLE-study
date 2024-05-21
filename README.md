@@ -6,16 +6,16 @@ The MICYCLE Study is a research project focused on understanding how the vaginal
 
 ## Study Details
 
-- **Objective**: Investigate the impact of diet, mood, stress, sex, and exercise on the vaginal microbiome.
+- **Objective**: Investigate the impact of the menstrual cycle on the vaginal mcirobiome, with respect to diet, mood, stress, sex, and exercise.
 - **Benefits**: Participants gain insights into their menstrual health and contribute to scientific knowledge.
 - **Commitment**: Two-cycle participation required.
 
 ## How to Participate
 
-1. Sign up on our website.
-2. Commit to participating for two cycles.
-3. Receive access to an at-home urine analyzer and cycle tracking application.
-4. Gain valuable insights into your menstrual health.
+1. [Click here to register your interest](https://forms.gle/tSynFr28zAbbYDYSA)
+2. Kristina will contact you wihtin 72 hours with some more information about the study
+3. Organise a meeting to receive at-home urine analyzer and set up cycle tracking application
+4. Gain valuable insights into your menstrual cycle.
 
 ## Contact Us
 
