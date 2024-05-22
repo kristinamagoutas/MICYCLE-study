@@ -9,6 +9,15 @@ The MICYCLE Study is a research project focused on understanding how the vaginal
 <p style="color: blue;">This is a paragraph in blue.</p>
 <p style="color: red;">This is a paragraph in red.</p>
 
+# Project Title
+
+<div style="background-color: lightgray; padding: 10px;">
+    <h1 style="color: green;">Welcome to My Project</h1>
+    <p style="color: blue;">This is a project description with a blue text.</p>
+</div>
+
+
+
 ## Study Details
 
 - **Objective**: Investigate the impact of the menstrual cycle on the vaginal mcirobiome, with respect to diet, mood, stress, sex, and exercise.
