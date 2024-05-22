@@ -1,14 +1,14 @@
 # Welcome to the MICYCLE Study Website
-
-## About Us
-
-The MICYCLE Study is a research project focused on understanding how the vaginal microbiome changes throughout the menstrual cycle. Our goal is to provide participants with valuable insights into their menstrual health through access to an at-home urine analyzer and a cycle tracking application, while also making a valuable contribution to science.
-
-## Study Details
-
-- **Objective**: Investigate the impact of the menstrual cycle on the vaginal mcirobiome, with respect to diet, mood, stress, sex, and exercise.
-- **Benefits**: Participants gain insights into their menstrual health and contribute to scientific knowledge.
-- **Commitment**: Two-cycle participation required.
+<div style="border: 1px solid black; padding:20px; background-color: #e2cfea;">
+  <h2 style="color: #6247aa;">About Us</h2>
+  <p>The MICYCLE Study is a research project focused on understanding how the vaginal microbiome changes throughout the menstrual cycle. Our goal is to provide participants with valuable insights into their menstrual health through access to an at-home urine analyzer and a cycle tracking application, while also making a valuable contribution to science.</p>
+<h3 style="color: #6247aa;">Study Details</h3>
+<ul> 
+<li style:"color: #6247aa;>Objectives: Investigate the impact of the menstrual cycle on the vaginal mcirobiome, with respect to diet, mood, stress, sex, and exercise.</li>
+  <li style:"color: #6247aa;>Benefits: Participants gain insights into their menstrual health and contribute to scientific knowledge.</li>
+  <li style:"color: #6247aa;>Commitment: Two-cycle participation required.</li>
+  </ul>
+</div>
 
 ## How to Participate
 
