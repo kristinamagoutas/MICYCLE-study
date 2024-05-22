@@ -16,11 +16,6 @@ The MICYCLE Study is a research project focused on understanding how the vaginal
     <p style="color: blue;">This is a project description with a blue text.</p>
 </div>
 
-# My Project
-
-![GitHub last commit](https://img.shields.io/github/last-commit/user/repo?color=green)
-![GitHub issues](https://img.shields.io/github/issues/user/repo?color=red)
-
 # Project Overview
 
 <table>
