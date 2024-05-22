@@ -32,3 +32,15 @@
         <li style="color: #4682b4;">Item 2</li>
     </ul>
 </div>
+
+
+# My Fancy Project
+
+<div style="border: 1px solid black; padding: 20px; background-color: #f9f9f9;">
+    <h2 style="color: #2e8b57;">Introduction</h2>
+    <p>This project is about...</p>
+    <ul>
+        <li style="color: #ff6347;">Item 1</li>
+        <li style="color: #4682b4;">Item 2</li>
+    </ul>
+</div>
